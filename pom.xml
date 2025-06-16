@@ -8,11 +8,10 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>fun.justdevelops</groupId>
-	<artifactId>otpservice</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>otpservice</name>
-	<description>OTP-code securing task from Promo IT</description>
+	<groupId>com.frol97</groupId>         
+	<artifactId>secure-codes-gateway</artifactId>
+	<name>secure-codes-gateway</name>
+	<description>Secure verification codes service</description>
 	<url/>
 	<licenses>
 		<license/>
